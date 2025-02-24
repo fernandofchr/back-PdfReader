@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de entorno
+.env
+
+# Dependencias lock si usas yarn
+yarn.lock
+
+# Logs
+logs/
+*.log
+
+# Archivos del editor
+.vscode/
+.idea/
+.DS_Store
+
+# Caché de npm y otros archivos innecesarios
+.npm/
+.cache/
